@@ -1,7 +1,7 @@
 # Assignment 3
 **Due by 11:59pm on Monday, 11/12/2018**
 
-**Demo due by 11:59pm on Monday 11/12/2018**
+**Demo due by 11:59pm on Monday 11/26/2018**
 
 This assignment is intended to have you start working with binary search trees.  There are several parts to the assignment, each described below.
 
